@@ -6,13 +6,13 @@ Bu projeyi kodlarken yalnızca Html ve CSS  özelliklerinden yararalandım. CSS 
 
 Projede 4 adet  buton bulunmaktadır. Bu butonlar sayesinde benim sosyal medya hesaplarıma ulaşmanız mümkündür.
 
-# Ekran Videosu
-
-https://user-images.githubusercontent.com/84860191/184374021-231dcd78-be59-4b28-b0b8-0972d69c8ab5.mp4
-
 # Ekran Görüntüsü
 
 ![3d-icon-effect](https://user-images.githubusercontent.com/84860191/184374684-77e1a5e3-e09d-4861-8feb-e4af7ec60fb4.png)
+
+# Ekran Videosu
+
+https://user-images.githubusercontent.com/84860191/184374021-231dcd78-be59-4b28-b0b8-0972d69c8ab5.mp4
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
